@@ -1,0 +1,15 @@
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\bin\Debug\net8.0\Midterm.exe
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\bin\Debug\net8.0\Midterm.deps.json
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\bin\Debug\net8.0\Midterm.runtimeconfig.json
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\bin\Debug\net8.0\Midterm.dll
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\bin\Debug\net8.0\Midterm.pdb
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\Midterm.AssemblyInfo.cs
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\Midterm.sourcelink.json
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\Midterm.dll
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\refint\Midterm.dll
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\Midterm.pdb
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\Midterm.genruntimeconfig.cache
+C:\Users\so_il\Desktop\Storage\PROG2070\Midterm\Midterm\Midterm\obj\Debug\net8.0\ref\Midterm.dll
