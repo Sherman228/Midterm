@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\so_il\\Desktop\\Storage\\PROG2070\\Midterm\\Midterm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2C6B1F-B2A7-49F5-8837-5F1DEDBBDB80}|NUnitCalculatorTest\\NUnitCalculatorTest.csproj|c:\\users\\so_il\\desktop\\storage\\prog2070\\midterm\\midterm\\nunitcalculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2C6B1F-B2A7-49F5-8837-5F1DEDBBDB80}|NUnitCalculatorTest\\NUnitCalculatorTest.csproj|solutionrelative:nunitcalculatortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F157AE7B-E0EF-497B-A12D-5B285C455F54}|Midterm\\Midterm.csproj|c:\\users\\so_il\\desktop\\storage\\prog2070\\midterm\\midterm\\midterm\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F157AE7B-E0EF-497B-A12D-5B285C455F54}|Midterm\\Midterm.csproj|solutionrelative:midterm\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\so_il\\Desktop\\Storage\\PROG2070\\Midterm\\Midterm\\NUnitCalculatorTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NUnitCalculatorTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\so_il\\Desktop\\Storage\\PROG2070\\Midterm\\Midterm\\NUnitCalculatorTest\\UnitTest1.cs",
+              "RelativeToolTip": "NUnitCalculatorTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:59:17.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\so_il\\Desktop\\Storage\\PROG2070\\Midterm\\Midterm\\Midterm\\Calculator.cs",
+              "RelativeDocumentMoniker": "Midterm\\Calculator.cs",
+              "ToolTip": "C:\\Users\\so_il\\Desktop\\Storage\\PROG2070\\Midterm\\Midterm\\Midterm\\Calculator.cs",
+              "RelativeToolTip": "Midterm\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:58:16.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
