@@ -11,9 +11,9 @@ namespace NUnitCalculatorTest
 
         [TestCase(-10, "The number is negative.")]
         [TestCase(0, "The number is zero.")]
-        [TestCase(3, "The number is between 1 and 10.")]
+        [TestCase(10, "The number is between 1 and 10.")]
         [TestCase(20, "The number is between 11 and 20.")]
-        [TestCase(85, "The number is greater than 70.")]
+        [TestCase(30, "The number is between 21 and 30.")]
         public void CategorizeNumber_Test(int number, string sentence)
         {
             // Act
